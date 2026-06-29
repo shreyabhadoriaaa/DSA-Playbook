@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class RemoveDuplicates {
+public class removeDuplicates {
 
     // ---------------- Optimal Approach ----------------
     static int removeDuplicates(int[] nums) {
