@@ -94,3 +94,68 @@ Pattern Used : Hashing (HashSet)
 4. Top K Frequent Elements.
 5. Longest Consecutive Sequence.
 */
+
+/*
+==================== OTHER APPROACHES ====================
+
+1. Brute Force Approach
+
+   - Compare every element with every other element.
+   - If any two elements are equal,
+     return true.
+   - Otherwise, return false.
+
+   Time Complexity  : O(n²)
+
+   Reason           : Every element may need to be
+                      compared with every other element.
+
+   Space Complexity : O(1)
+
+   Reason           : No extra data structure is used.
+
+----------------------------------------------------------
+
+2. Sorting Approach
+
+   - Sort the array.
+   - Traverse the sorted array.
+   - If two adjacent elements are equal,
+     a duplicate exists.
+
+   Time Complexity  : O(n log n)
+
+   Reason           : Sorting dominates the overall
+                      time complexity.
+
+   Space Complexity : O(1) or O(log n)
+
+   Reason           : Depends on the sorting algorithm
+                      being used.
+
+   Note:
+   - This approach modifies the original array.
+   - If the original order must be preserved,
+     create a copy before sorting.
+
+----------------------------------------------------------
+
+3. HashSet Approach (Optimal)
+
+   - Store each element in a HashSet.
+   - If an element already exists,
+     return true immediately.
+   - Otherwise, continue until the end.
+
+   Time Complexity  : O(n)
+
+   Reason           : Each insertion and lookup in a
+                      HashSet takes O(1) on average.
+
+   Space Complexity : O(n)
+
+   Reason           : In the worst case, all elements
+                      are unique and stored in the HashSet.
+
+==========================================================
+*/
