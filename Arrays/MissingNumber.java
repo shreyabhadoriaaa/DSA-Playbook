@@ -1,6 +1,5 @@
 public class MissingNumber{
 
-    // ---------------- Optimal Approach ----------------
     static int missingNumber(int[] arr) {
 
         int n = arr.length;
