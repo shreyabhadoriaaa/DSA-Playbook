@@ -7,4 +7,16 @@ A comprehensive collection of Data Structures and Algorithms problems solved in 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0175-combine-two-tables) |
+## Array
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0048-rotate-image) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
