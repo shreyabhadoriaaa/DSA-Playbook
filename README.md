@@ -11,6 +11,7 @@ A comprehensive collection of Data Structures and Algorithms problems solved in 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0048-rotate-image) |
+| [0560-subarray-sum-equals-k](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -19,4 +20,12 @@ A comprehensive collection of Data Structures and Algorithms problems solved in 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0048-rotate-image) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
