@@ -7,6 +7,7 @@ A comprehensive collection of Data Structures and Algorithms problems solved in 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0175-combine-two-tables) |
+| [0584-find-customer-referee](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/1757-recyclable-and-low-fat-products) |
 ## Array
 |  |
