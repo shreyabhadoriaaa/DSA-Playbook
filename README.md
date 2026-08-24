@@ -18,6 +18,7 @@ A comprehensive collection of Data Structures and Algorithms problems solved in 
 | [0048-rotate-image](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0560-subarray-sum-equals-k) |
+| [0912-sort-an-array](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0912-sort-an-array) |
 ## Math
 |  |
 | ------- |
@@ -39,4 +40,32 @@ A comprehensive collection of Data Structures and Algorithms problems solved in 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0128-longest-consecutive-sequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0912-sort-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
