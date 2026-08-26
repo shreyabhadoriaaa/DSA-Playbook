@@ -22,6 +22,7 @@ A comprehensive collection of Data Structures and Algorithms problems solved in 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0048-rotate-image) |
 ## Matrix
 |  |
