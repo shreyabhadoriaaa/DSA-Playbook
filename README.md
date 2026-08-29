@@ -24,6 +24,7 @@ A comprehensive collection of Data Structures and Algorithms problems solved in 
 | ------- |
 | [0007-reverse-integer](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
@@ -69,4 +70,12 @@ A comprehensive collection of Data Structures and Algorithms problems solved in 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0912-sort-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
