@@ -25,6 +25,7 @@ A comprehensive collection of Data Structures and Algorithms problems solved in 
 | [0007-reverse-integer](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0231-power-of-two) |
+| [3765-complete-prime-number](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/3765-complete-prime-number) |
 ## Matrix
 |  |
 | ------- |
@@ -78,4 +79,12 @@ A comprehensive collection of Data Structures and Algorithms problems solved in 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0231-power-of-two) |
+## Enumeration
+|  |
+| ------- |
+| [3765-complete-prime-number](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/3765-complete-prime-number) |
+## Number Theory
+|  |
+| ------- |
+| [3765-complete-prime-number](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/3765-complete-prime-number) |
 <!---LeetCode Topics End-->
