@@ -16,6 +16,7 @@ A comprehensive collection of Data Structures and Algorithms problems solved in 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0912-sort-an-array) |
@@ -30,6 +31,7 @@ A comprehensive collection of Data Structures and Algorithms problems solved in 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A comprehensive collection of Data Structures and Algorithms problems solved in 
 |  |
 | ------- |
 | [3765-complete-prime-number](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/3765-complete-prime-number) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
