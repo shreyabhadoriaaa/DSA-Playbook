@@ -19,6 +19,7 @@ A comprehensive collection of Data Structures and Algorithms problems solved in 
 | [0054-spiral-matrix](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0912-sort-an-array) |
 ## Math
 |  |
@@ -93,4 +94,8 @@ A comprehensive collection of Data Structures and Algorithms problems solved in 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0054-spiral-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
