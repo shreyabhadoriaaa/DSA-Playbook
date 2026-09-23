@@ -20,6 +20,7 @@ A comprehensive collection of Data Structures and Algorithms problems solved in 
 | [0128-longest-consecutive-sequence](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0912-sort-an-array) |
 ## Math
 |  |
@@ -98,4 +99,9 @@ A comprehensive collection of Data Structures and Algorithms problems solved in 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
