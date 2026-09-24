@@ -22,6 +22,7 @@ A comprehensive collection of Data Structures and Algorithms problems solved in 
 | [0704-binary-search](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/0912-sort-an-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/shreyabhadoriaaa/DSA-Playbook/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
 |  |
 | ------- |
